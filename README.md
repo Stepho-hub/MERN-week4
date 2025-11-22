@@ -1,4 +1,4 @@
-# MERN Blog Application 📝
+# Post Blog Application 📝
 
 A full-stack blog application built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring complete CRUD operations, user authentication, and a modern responsive design.
 
